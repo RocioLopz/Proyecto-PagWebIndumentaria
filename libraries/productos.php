@@ -58,7 +58,7 @@ function catalogo_completo(): array
             "tipo" => "remera",
             "nombre" =>"Remera 32",
             "precio" => 6500,
-            "descripcion" => "asdas",
+            "descripcion" => "Remera tipo top con numero 32",
             "talles" => "Talles disponibles: S - M - L",
             "stock" =>"stock:  9",
             "foto"=> "remera_32.png",
